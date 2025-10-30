@@ -75,11 +75,14 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	Verify the generated waveform using Tabulation and Model Waveform
 
 Program
+
+
 <img width="533" height="793" alt="image" src="https://github.com/user-attachments/assets/a387187b-6ca3-40b8-86f9-94036b59e001" />
 
 
 
 Output Waveform
+
 <img width="751" height="596" alt="image" src="https://github.com/user-attachments/assets/813ba129-63ef-4520-9aa5-61184067cae5" />
 
 
@@ -87,7 +90,9 @@ Output Waveform
 
 
 TABULATION:
+
 ![WhatsApp Image 2025-10-30 at 16 01 57_989b6960](https://github.com/user-attachments/assets/ce02966a-302d-44d8-8189-7f1940e36f0c)
+
 ![WhatsApp Image 2025-10-30 at 16 01 56_3b95f818](https://github.com/user-attachments/assets/7a0a5ebc-2f04-467c-9ca1-527ec25647bb)
 
 
